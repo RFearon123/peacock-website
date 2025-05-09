@@ -12,6 +12,8 @@ Keep your content concise and engaging: Focus on strong meaningful content that 
 Ensure responsive design: Your website should look and function well on all devices. 
 3. Content and Key Elements:
 
+homepage 
+
 About Section: Share your story, skills, and experience in a compelling way. 
 
 Portfolio/Resume: Showcase your best work and highlight your accomplishments. 
